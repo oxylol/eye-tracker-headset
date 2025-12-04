@@ -47,5 +47,5 @@ The device operates in "Headless Mode" to conserve RAM.
 
 * [ ] **Phase 1:** Procurement of Hardware.
 * [ ] **Phase 2:** SSH Setup and dual-camera test script.
-* [ ] **Phase 3:** 3D Modeling.
+* [ ] **Phase 3:** 3D Printing.
 * [ ] **Phase 4:** Developing the pupil tracking algorithm.
